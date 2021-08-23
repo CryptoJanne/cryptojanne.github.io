@@ -6,5 +6,5 @@ I am currently studying computer security and therefor i have limited time to di
 
 ### Blog entries
 
-2. [Future of online gaming intersecting with cryptocurrencies](./FutureOfGaming.html).
+2. [Future of online gaming intersecting with cryptocurrencies](./commingsoon.html).
 1. [About me](./aboutme.html).
